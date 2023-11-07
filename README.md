@@ -10,7 +10,7 @@ In the recent times, we have been seeing a massive raise in brain stroke cases a
 # _**Algorithm Description**_
 So, we have used **Convolutional Neural Networks** to identify whether a person has brain tumour or not, as we all know, how sophisticated CNNs are and how they can learn almost anything like a brain does, this can help us save a lot of time and also giving almost accurate predictions for the disease. As we discussed convolutional neural networks are very sophisticated and more advanced version of neural networks, these are very superior to other neural networks which works better with images and audio/speech input signal. A CNN network comprises of 3 important layers such as a convolutional layer, pooling layer and fully connected layer. we can have as many layers as possible depending on the domain and project we are working on.
 
-![CNN](https://www.researchgate.net/publication/336805909/figure/fig1/AS:817888827023360@1572011300751/Schematic-diagram-of-a-basic-convolutional-neural-network-CNN-architecture-26.ppm)
+![CNN](https://miro.medium.com/v2/resize:fit:731/1*kQtbGWZgi3n35Qojkg8cFw.png)
 
 **Reference:**
 + https://www.ibm.com/cloud/learn/convolutional-neural-networks
