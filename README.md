@@ -53,7 +53,9 @@ https://www.python.org/downloads/
 4.	Make sure you are in the correct path in your terminal, where you have saved your executable file/folder. E.g.: cd A:\project\AI\Completed\project_name, then press enter.
 5.	Install necessary libraries from requirements.txt file provided.
 6.	Run pip install -r requirements.txt or conda install requirements.txt (Requirements.txt is a text file consisting of all the necessary libraries required for executing this python file. If it gives any error while installing libraries, you might need to install them individually.)
-7.      Run main.py or main.ipynb file on jupyter notebook.
+7.  Run main.py or main.ipynb file on jupyter notebook.
+
+![thanks](https://media1.tenor.com/images/11ae4fcfc41bb9e66a0176fcfc38e695/tenor.gif?itemid=8486985)
 
 # _**Data Description**_
 The model is trained on MRI scanned brain tumor images collected from kaggle data repository, Before training the model, the images have gone through some preprocessing, such as Data augmentation and Images have being resized to fit to the model.
@@ -71,7 +73,7 @@ The Model weights and dataset haven't been provided here since, it didn’t allo
 
 
 ### _**Let’s Connect**_
-https://www.linkedin.com/in/mudassiruddin21
+<a href="https://linkedin.com/in/mudassiruddin21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mudassiruddin21" height="30" width="40" /></a>
 
 ![Connect](https://media2.giphy.com/media/l1O6zvqu7O317887HF/source.gif)
 
